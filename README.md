@@ -35,7 +35,7 @@ Python 3 dependencies:
 * matplotlib
 * numpy
 * imageio
-*  configargparse
+* configargparse
 
 The LLFF data loader requires ImageMagick.
 
